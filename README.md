@@ -17,3 +17,15 @@
 
 
 [aakif_new_aiml_report.odt](https://github.com/aakif100/whatsapp-chat-analyser-ML-project-/files/14800662/aakif_new_aiml_report.odt)
+
+
+# Technologies/ Libraries Used(In PYCHARM):
+
+
+1)streamlit
+2)matplotlib
+3)seaborn
+4urlextract
+5)wordcloud
+6)pandas
+7)emoji
