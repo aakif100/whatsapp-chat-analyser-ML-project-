@@ -38,4 +38,4 @@
 
 # REPORT
 
-
+[aakif_new_aiml_report.odt](https://github.com/aakif100/whatsapp-chat-analyser-ML-project-/files/14800710/aakif_new_aiml_report.odt)
