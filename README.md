@@ -33,8 +33,9 @@
 <br>
 6)pandas
 <br>
-7)emoji
+7)emoji(latest version of emoji==2.1.0 has no attribute Unicode_emoji. So, try to uninstall the existing version and install emoji==1.7.0)
 
 
 # REPORT
+
 
