@@ -11,3 +11,6 @@
 
 
 ![4](https://github.com/aakif100/whatsapp-chat-analyser-ML-project-/assets/137098447/69d6b366-6a0c-4a66-87fd-d17b93919d00)
+
+
+![5](https://github.com/aakif100/whatsapp-chat-analyser-ML-project-/assets/137098447/b2586976-9fff-4a05-bfd5-ffe57037aced)
