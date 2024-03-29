@@ -16,7 +16,6 @@
 ![5](https://github.com/aakif100/whatsapp-chat-analyser-ML-project-/assets/137098447/b2586976-9fff-4a05-bfd5-ffe57037aced)
 
 
-[aakif_new_aiml_report.odt](https://github.com/aakif100/whatsapp-chat-analyser-ML-project-/files/14800662/aakif_new_aiml_report.odt)
 
 
 # Technologies/ Libraries Used(In PYCHARM):
@@ -35,3 +34,7 @@
 6)pandas
 <br>
 7)emoji
+
+
+# REPORT
+
