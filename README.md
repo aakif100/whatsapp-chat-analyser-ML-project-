@@ -23,9 +23,15 @@
 
 
 1)streamlit
+<br>
 2)matplotlib
+<br>
 3)seaborn
+<br>
 4urlextract
+<br>
 5)wordcloud
+<br>
 6)pandas
+<br>
 7)emoji
